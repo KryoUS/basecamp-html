@@ -1,0 +1,95 @@
+a {
+    color:white;
+    font-size: 12px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menuRight {
+    float: right;
+}
+
+.menuLeft {
+    float: left;
+    color:white;
+    font-size: 12px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+    background-color:#2b2c2c;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.active {
+    background-color: #a08800;
+}
+
+#krieger {
+    display: inline-block;
+    height: 80%;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+#kriegerBio {
+    display: inline-block;
+    width: 40%;
+    height: 80%;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.footer {
+    height: 10vh;
+    margin-top: 1%;
+    background-color:#3b3046;
+    background-position: center;
+    background-size: cover;
+}
+
+.header {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+}
+
+.BoxContainer {
+    padding: 10px 10px;
+    height: 14vh;
+}
+
+.greenBox {
+    display: inline-block;
+    background: aquamarine;
+    border-radius: 25px;
+    width: 30%;
+    height: 100%;
+    margin: 1%;
+}
+
+.orangeBox {
+    display: inline-block;
+    background: #e0a331;
+    width: 46%;
+    height: 100%;
+    margin: 1%;
+}
+
+h1 {
+    margin: 0;
+    padding: 120px 10px;
+    height: 60px;
+    text-align: center;
+    color: #fbff00;
+    font-size: 64px;
+    font-family: sans-serif;
+}
